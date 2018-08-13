@@ -1,0 +1,10 @@
+repositories {
+    maven { url 'https://jitpack.io' }
+}
+
+dependencies {
+    compile 'com.github.hudsonb:kubed:-SNAPSHOT'
+
+    compile 'no.tornado:tornadofx:1.7.15'
+    compile 'com.univocity:univocity-parsers:2.5.9'
+}

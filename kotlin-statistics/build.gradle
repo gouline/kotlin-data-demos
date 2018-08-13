@@ -1,0 +1,4 @@
+dependencies {
+    compile 'no.tornado:tornadofx:1.7.15'
+    compile 'org.nield:kotlin-statistics:1.1.2'
+}

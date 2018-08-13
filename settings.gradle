@@ -1,0 +1,3 @@
+rootProject.name = 'kotlin-data-demos'
+
+include 'kotlin-statistics', 'kubed', 'komputation'
